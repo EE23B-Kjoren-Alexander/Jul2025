@@ -12,7 +12,7 @@ float speed = 3;
     }
     void Update()
     {
-        transform.Translate(movement * Time.deltaTime);
+        transform.Translate(movement * Time.deltaTime * speed);
         
     }
 
