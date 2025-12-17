@@ -1,0 +1,3679 @@
+fileFormatVersion: 2
+guid: 9d063b5a2a9a40548a473129819864d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2457422814912123305
+    second: Jultomten_0
+  - first:
+      213: 4596041422005415674
+    second: Jultomten_1
+  - first:
+      213: -6727859067965146773
+    second: Jultomten_2
+  - first:
+      213: -996731776709330243
+    second: Jultomten_3
+  - first:
+      213: -7793918986411003739
+    second: Jultomten_4
+  - first:
+      213: 8940102498085066736
+    second: Jultomten_5
+  - first:
+      213: 4876255135129449068
+    second: Jultomten_6
+  - first:
+      213: -272534446097239019
+    second: Jultomten_7
+  - first:
+      213: -8640244699750261364
+    second: Jultomten_8
+  - first:
+      213: -6383577953317798148
+    second: Jultomten_9
+  - first:
+      213: -16563836854104276
+    second: Jultomten_10
+  - first:
+      213: 3831063155743926144
+    second: Jultomten_11
+  - first:
+      213: -6653267750258318792
+    second: Jultomten_12
+  - first:
+      213: 2990811387991367837
+    second: Jultomten_13
+  - first:
+      213: 6633807247344487235
+    second: Jultomten_14
+  - first:
+      213: 2985559871640674510
+    second: Jultomten_15
+  - first:
+      213: 80046452298781569
+    second: Jultomten_16
+  - first:
+      213: 7833986851288908446
+    second: Jultomten_17
+  - first:
+      213: -5806659542577494840
+    second: Jultomten_18
+  - first:
+      213: -4875593546618670623
+    second: Jultomten_19
+  - first:
+      213: 5066938052175832146
+    second: Jultomten_20
+  - first:
+      213: -4305117532079726619
+    second: Jultomten_21
+  - first:
+      213: -4870303021694968372
+    second: Jultomten_22
+  - first:
+      213: 3351088058467969495
+    second: Jultomten_23
+  - first:
+      213: 6809050469699719686
+    second: Jultomten_24
+  - first:
+      213: 8529592821275776345
+    second: Jultomten_25
+  - first:
+      213: 6329166124880554037
+    second: Jultomten_26
+  - first:
+      213: -1480050328495294494
+    second: Jultomten_27
+  - first:
+      213: -193283158631169992
+    second: Jultomten_28
+  - first:
+      213: -7532387154756057803
+    second: Jultomten_29
+  - first:
+      213: -4840885757221775531
+    second: Jultomten_30
+  - first:
+      213: -2863908772073689260
+    second: Jultomten_31
+  - first:
+      213: 7383765007175000796
+    second: Jultomten_32
+  - first:
+      213: 5532655800487811839
+    second: Jultomten_33
+  - first:
+      213: -5785370673768692709
+    second: Jultomten_34
+  - first:
+      213: -8816833536975833504
+    second: Jultomten_35
+  - first:
+      213: -5261208860694667645
+    second: Jultomten_36
+  - first:
+      213: -8024882114949050047
+    second: Jultomten_37
+  - first:
+      213: -5350739179952730353
+    second: Jultomten_38
+  - first:
+      213: 4606357573057555432
+    second: Jultomten_39
+  - first:
+      213: -6752464386963521010
+    second: Jultomten_40
+  - first:
+      213: -5820540010716010312
+    second: Jultomten_41
+  - first:
+      213: -3822555961058937608
+    second: Jultomten_42
+  - first:
+      213: 3291583261259714543
+    second: Jultomten_43
+  - first:
+      213: 1924727236209976125
+    second: Jultomten_44
+  - first:
+      213: 1783346622021372808
+    second: Jultomten_45
+  - first:
+      213: 2944302087912000338
+    second: Jultomten_46
+  - first:
+      213: 6231720258592929233
+    second: Jultomten_47
+  - first:
+      213: -7915319353963492018
+    second: Jultomten_48
+  - first:
+      213: -7501429024760847356
+    second: Jultomten_49
+  - first:
+      213: 2107085269625499847
+    second: Jultomten_50
+  - first:
+      213: 4171854616731314969
+    second: Jultomten_51
+  - first:
+      213: -8585537877215227465
+    second: Jultomten_52
+  - first:
+      213: -6209327180003017701
+    second: Jultomten_53
+  - first:
+      213: -8726688509229585522
+    second: Jultomten_54
+  - first:
+      213: 2922153847976541476
+    second: Jultomten_55
+  - first:
+      213: 7586511845723401381
+    second: Jultomten_56
+  - first:
+      213: 5891236404787088846
+    second: Jultomten_57
+  - first:
+      213: 5567913542821198896
+    second: Jultomten_58
+  - first:
+      213: 1749029827834891352
+    second: Jultomten_59
+  - first:
+      213: 3671041265705685492
+    second: Jultomten_60
+  - first:
+      213: 3425375615930209960
+    second: Jultomten_61
+  - first:
+      213: 5170140701456160916
+    second: Jultomten_62
+  - first:
+      213: -400531540484236340
+    second: Jultomten_63
+  - first:
+      213: -8343478702825254230
+    second: Jultomten_64
+  - first:
+      213: 8644788050666120425
+    second: Jultomten_65
+  - first:
+      213: 5375098804461044350
+    second: Jultomten_66
+  - first:
+      213: -7040043444878712832
+    second: Jultomten_67
+  - first:
+      213: 9179300728292920777
+    second: Jultomten_68
+  - first:
+      213: -8328795794787759283
+    second: Jultomten_69
+  - first:
+      213: 5914973652934496468
+    second: Jultomten_70
+  - first:
+      213: -5713546481734308653
+    second: Jultomten_71
+  - first:
+      213: -9082479107642842725
+    second: Jultomten_72
+  - first:
+      213: 7699980825899126133
+    second: Jultomten_73
+  - first:
+      213: -1634999099904236532
+    second: Jultomten_74
+  - first:
+      213: -8333745248586410645
+    second: Jultomten_75
+  - first:
+      213: -5011635123675401454
+    second: Jultomten_76
+  - first:
+      213: 5242238621495945894
+    second: Jultomten_77
+  - first:
+      213: 1893228824087229781
+    second: Jultomten_78
+  - first:
+      213: -3070536590411749651
+    second: Jultomten_79
+  - first:
+      213: 2835334877219457478
+    second: Jultomten_80
+  - first:
+      213: 5112953622691269241
+    second: Jultomten_81
+  - first:
+      213: -1122809983009340256
+    second: Jultomten_82
+  - first:
+      213: -8547389993611408082
+    second: Jultomten_83
+  - first:
+      213: 9076611645438752348
+    second: Jultomten_84
+  - first:
+      213: -2509606964010560203
+    second: Jultomten_85
+  - first:
+      213: 2382854945164841599
+    second: Jultomten_86
+  - first:
+      213: 3676455942034940931
+    second: Jultomten_87
+  - first:
+      213: 7055205646513241744
+    second: Jultomten_88
+  - first:
+      213: -6804874762838367400
+    second: Jultomten_89
+  - first:
+      213: 2109321240189437643
+    second: Jultomten_90
+  - first:
+      213: 4456907674607383808
+    second: Jultomten_91
+  - first:
+      213: -801251878516769494
+    second: Jultomten_92
+  - first:
+      213: 3296133317790229569
+    second: Jultomten_93
+  - first:
+      213: 9207321281311937524
+    second: Jultomten_94
+  - first:
+      213: 2498889678590572436
+    second: Jultomten_95
+  - first:
+      213: 4727721681666469701
+    second: Jultomten_96
+  - first:
+      213: 7123445891519730788
+    second: Jultomten_97
+  - first:
+      213: -8174398862404021667
+    second: Jultomten_98
+  - first:
+      213: -8454000111884642170
+    second: Jultomten_99
+  - first:
+      213: 5690947068026876712
+    second: Jultomten_100
+  - first:
+      213: 9040796421933111093
+    second: Jultomten_101
+  - first:
+      213: 171426878004618708
+    second: Jultomten_102
+  - first:
+      213: -3895669697904451179
+    second: Jultomten_103
+  - first:
+      213: 984886879453334951
+    second: Jultomten_104
+  - first:
+      213: -7186598183072512100
+    second: Jultomten_105
+  - first:
+      213: 968507742874410641
+    second: Jultomten_106
+  - first:
+      213: 5990294982765052855
+    second: Jultomten_107
+  - first:
+      213: 885252155171668721
+    second: Jultomten_108
+  - first:
+      213: -2895142834086242836
+    second: Jultomten_109
+  - first:
+      213: 5939880122677208051
+    second: Jultomten_110
+  - first:
+      213: 8096623987191200120
+    second: Jultomten_111
+  - first:
+      213: 1008280761129759798
+    second: Jultomten_112
+  - first:
+      213: -5784494289883759845
+    second: Jultomten_113
+  - first:
+      213: 740190967718515874
+    second: Jultomten_114
+  - first:
+      213: -2806337779846923718
+    second: Jultomten_115
+  - first:
+      213: -2177679227283082750
+    second: Jultomten_116
+  - first:
+      213: 2993884286466508297
+    second: Jultomten_117
+  - first:
+      213: 9053382018937453320
+    second: Jultomten_118
+  - first:
+      213: -2656318214006255840
+    second: Jultomten_119
+  - first:
+      213: -2880320718131405887
+    second: Jultomten_120
+  - first:
+      213: -2735268980927155601
+    second: Jultomten_121
+  - first:
+      213: -4430825376462629477
+    second: Jultomten_122
+  - first:
+      213: 1102610892006236091
+    second: Jultomten_123
+  - first:
+      213: -5543699665013455974
+    second: Jultomten_124
+  - first:
+      213: -4958963947458195590
+    second: Jultomten_125
+  - first:
+      213: 7770356796290185160
+    second: Jultomten_126
+  - first:
+      213: -2088253272603434606
+    second: Jultomten_127
+  - first:
+      213: -124339899530713288
+    second: Jultomten_128
+  - first:
+      213: -6376785194834507871
+    second: Jultomten_129
+  - first:
+      213: 3396080873324695280
+    second: Jultomten_130
+  - first:
+      213: -5772284135960472141
+    second: Jultomten_131
+  - first:
+      213: -9069762596262598589
+    second: Jultomten_132
+  - first:
+      213: -4921988710727469072
+    second: Jultomten_133
+  - first:
+      213: 4264228745643161034
+    second: Jultomten_134
+  - first:
+      213: -7145589784012654093
+    second: Jultomten_135
+  - first:
+      213: -2249128261747664192
+    second: Jultomten_136
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jultomten_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2047
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ee83648fa75edd0800000000000000
+      internalID: -2457422814912123305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2015
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe2d9b825b68cf30800000000000000
+      internalID: 4596041422005415674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2015
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69fb0bc2d7d1a2a0800000000000000
+      internalID: -6727859067965146773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_3
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2015
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba75e0eab5ea22f0800000000000000
+      internalID: -996731776709330243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_4
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2015
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0bccec9ff66d390800000000000000
+      internalID: -7793918986411003739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_5
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 2047
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f751f5fadf911c70800000000000000
+      internalID: 8940102498085066736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1952
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62b09bb530fba340800000000000000
+      internalID: 4876255135129449068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_7
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1919
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514f05f7d53c73cf0800000000000000
+      internalID: -272534446097239019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_8
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1919
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d1fea393fa71880800000000000000
+      internalID: -8640244699750261364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_9
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1919
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe3a705ca9f867a0800000000000000
+      internalID: -6383577953317798148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_10
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1919
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f8134374725cff0800000000000000
+      internalID: -16563836854104276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_11
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1919
+        width: 32
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087243e64abaa2530800000000000000
+      internalID: 3831063155743926144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_12
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1919
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8326a4e4b38daa3a0800000000000000
+      internalID: -6653267750258318792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_13
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1919
+        width: 99
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d902b638c1f718920800000000000000
+      internalID: 2990811387991367837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1855
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b41664b84001c50800000000000000
+      internalID: 6633807247344487235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1823
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0adc492e6de6920800000000000000
+      internalID: 2985559871640674510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_16
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1823
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1839cc203d16c1100800000000000000
+      internalID: 80046452298781569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_17
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1823
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e920826f889e7bc60800000000000000
+      internalID: 7833986851288908446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_18
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1823
+        width: 99
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4490939e99a6fa0800000000000000
+      internalID: -5806659542577494840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1759
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e17b985089665cb0800000000000000
+      internalID: -4875593546618670623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_20
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1727
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254a9da0051615640800000000000000
+      internalID: 5066938052175832146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_21
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1727
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efd4100a662144c0800000000000000
+      internalID: -4305117532079726619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_22
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1727
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd1c5ba435396cb0800000000000000
+      internalID: -4870303021694968372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_23
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1727
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9690895d4718e20800000000000000
+      internalID: 3351088058467969495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_24
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1631
+        width: 43
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6029828835b9e7e50800000000000000
+      internalID: 6809050469699719686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1663
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9555ddeaa733f5670800000000000000
+      internalID: 8529592821275776345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_26
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1631
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538e0f5ae07b5d750800000000000000
+      internalID: 6329166124880554037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1666
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e77650611ec57be0800000000000000
+      internalID: -1480050328495294494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_28
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1664
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83049b4cdf1515df0800000000000000
+      internalID: -193283158631169992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_29
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1663
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535cc028ac5977790800000000000000
+      internalID: -7532387154756057803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1567
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5575c8a4d08b1dcb0800000000000000
+      internalID: -4840885757221775531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_31
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1535
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f2c6b352a5148d0800000000000000
+      internalID: -2863908772073689260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_32
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1535
+        width: 31
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd220a53727687660800000000000000
+      internalID: 7383765007175000796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_33
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1567
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa94942321f7cc40800000000000000
+      internalID: 5532655800487811839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_34
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1439
+        width: 36
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b140e00460c36bfa0800000000000000
+      internalID: -5785370673768692709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_35
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1535
+        width: 41
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066fdc89c9054a580800000000000000
+      internalID: -8816833536975833504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_36
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1535
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e18219a6e6cf6b0800000000000000
+      internalID: -5261208860694667645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_37
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1535
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141931eeb34e1a090800000000000000
+      internalID: -8024882114949050047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_38
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1439
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f0725b01b5eb5b0800000000000000
+      internalID: -5350739179952730353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_39
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1571
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eba682aec11def30800000000000000
+      internalID: 4606357573057555432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_40
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1535
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0240988a6d6a42a0800000000000000
+      internalID: -6752464386963521010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1471
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8e254e2b9493fa0800000000000000
+      internalID: -5820540010716010312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_42
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1439
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4b70f2b9d83fac0800000000000000
+      internalID: -3822555961058937608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1476
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefc10c598d0ead20800000000000000
+      internalID: 3291583261259714543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_44
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1439
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33a0d3493106ba10800000000000000
+      internalID: 1924727236209976125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_45
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1439
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b0afcdd48bfb810800000000000000
+      internalID: 1783346622021372808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_46
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1439
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b8f6d36234cd820800000000000000
+      internalID: 2944302087912000338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1375
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d57901ee848b7650800000000000000
+      internalID: 6231720258592929233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_48
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1247
+        width: 25
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d4b371cf2272290800000000000000
+      internalID: -7915319353963492018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_49
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1375
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4042357db0295e790800000000000000
+      internalID: -7501429024760847356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_50
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1343
+        width: 26
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c07c7f83eedd3d10800000000000000
+      internalID: 2107085269625499847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_51
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1343
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91be7d4aba765e930800000000000000
+      internalID: 4171854616731314969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_52
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1343
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1dceee9ca0ad880800000000000000
+      internalID: -8585537877215227465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_53
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1343
+        width: 99
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cfdb504d904d9a0800000000000000
+      internalID: -6209327180003017701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1279
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b23ed690394e680800000000000000
+      internalID: -8726688509229585522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_55
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1247
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dbea741739d8820800000000000000
+      internalID: 2922153847976541476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_56
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1247
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ace2a02454b84960800000000000000
+      internalID: 7586511845723401381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_57
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1247
+        width: 99
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd0f2b0c40e1c150800000000000000
+      internalID: 5891236404787088846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_58
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1183
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cb1fbfdd3354d40800000000000000
+      internalID: 5567913542821198896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_59
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1151
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c49a59c5dc54810800000000000000
+      internalID: 1749029827834891352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_60
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1151
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f11036c49822f230800000000000000
+      internalID: 3671041265705685492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_61
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1151
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a61ec969f0698f20800000000000000
+      internalID: 3425375615930209960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_62
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1055
+        width: 33
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498551d439700c740800000000000000
+      internalID: 5170140701456160916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1087
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbd810afa6017af0800000000000000
+      internalID: -400531540484236340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_64
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1055
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2501f4352063c80800000000000000
+      internalID: -8343478702825254230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_65
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1055
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4ee761ee478f770800000000000000
+      internalID: 8644788050666120425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_66
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1055
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72078852ef289a40800000000000000
+      internalID: 5375098804461044350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_67
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1055
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000efa069cdbc4e90800000000000000
+      internalID: -7040043444878712832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_68
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1055
+        width: 131
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd426cd06d636f70800000000000000
+      internalID: 9179300728292920777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 959
+        width: 98
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b88ec3a5c2a6c80800000000000000
+      internalID: -8328795794787759283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_70
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 959
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d094fec235361250800000000000000
+      internalID: 5914973652934496468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_71
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 959
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc2b8c1fb765b0b0800000000000000
+      internalID: -5713546481734308653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_72
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 959
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91aa056f5d84f180800000000000000
+      internalID: -9082479107642842725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_73
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 991
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d4901d3c3dbda60800000000000000
+      internalID: 7699980825899126133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 863
+        width: 98
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04ef123bf05f49e0800000000000000
+      internalID: -1634999099904236532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_75
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 863
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b655869b9d6985c80800000000000000
+      internalID: -8333745248586410645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_76
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 863
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213f4756868137ab0800000000000000
+      internalID: -5011635123675401454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_77
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 863
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa691e604c20c840800000000000000
+      internalID: 5242238621495945894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_78
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 863
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555ff32b599164a10800000000000000
+      internalID: 1893228824087229781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_79
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 863
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de62baa4d334365d0800000000000000
+      internalID: -3070536590411749651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_80
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 863
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c901ff6c02295720800000000000000
+      internalID: 2835334877219457478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_81
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 895
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a4f81fa3cd4f640800000000000000
+      internalID: 5112953622691269241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 767
+        width: 98
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a44774f44afa60f0800000000000000
+      internalID: -1122809983009340256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_83
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 767
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d401a3612916980800000000000000
+      internalID: -8547389993611408082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_84
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 767
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56fc8a933a96fd70800000000000000
+      internalID: 9076611645438752348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_85
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 767
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535dd4043c51c2dd0800000000000000
+      internalID: -2509606964010560203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_86
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 799
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7255dd92f9911120800000000000000
+      internalID: 2382854945164841599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 671
+        width: 98
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304ed595335650330800000000000000
+      internalID: 3676455942034940931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_88
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 671
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e70c9c72029e160800000000000000
+      internalID: 7055205646513241744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_89
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 671
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853affbf47a3091a0800000000000000
+      internalID: -6804874762838367400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_90
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 671
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc68da60e70d54d10800000000000000
+      internalID: 2109321240189437643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_91
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 703
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0057fa59aed1add30800000000000000
+      internalID: 4456907674607383808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 98
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2db46569a161e4f0800000000000000
+      internalID: -801251878516769494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_93
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 575
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1446733f9c73ebd20800000000000000
+      internalID: 3296133317790229569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_94
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 610
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f31e714ce9f6cf70800000000000000
+      internalID: 9207321281311937524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_95
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 608
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497f7494ce6dda220800000000000000
+      internalID: 2498889678590572436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_96
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 607
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f64a822dd3c9140800000000000000
+      internalID: 4727721681666469701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_97
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 607
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464dfb4fb409bd260800000000000000
+      internalID: 7123445891519730788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 98
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d521d026b83be8e80800000000000000
+      internalID: -8174398862404021667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_99
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 479
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688d00080bb5daa80800000000000000
+      internalID: -8454000111884642170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_100
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 479
+        width: 31
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823fa49d43e4afe40800000000000000
+      internalID: 5690947068026876712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_101
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 511
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53712ff027c577d70800000000000000
+      internalID: 9040796421933111093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_102
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 479
+        width: 41
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d56b6856d7016200800000000000000
+      internalID: 171426878004618708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_103
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 479
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591e626cc0dcfe9c0800000000000000
+      internalID: -3895669697904451179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_104
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 516
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad42c116650bad00800000000000000
+      internalID: 984886879453334951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_105
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 515
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97ce7a5703144c90800000000000000
+      internalID: -7186598183072512100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_106
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 511
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e9e3829a4d07d00800000000000000
+      internalID: 968507742874410641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 98
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b304838c8dc12350800000000000000
+      internalID: 5990294982765052855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_108
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 383
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f208a5152c094c00800000000000000
+      internalID: 885252155171668721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_109
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 420
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce595487ee262d7d0800000000000000
+      internalID: -2895142834086242836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_110
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 383
+        width: 36
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f324903081be6250800000000000000
+      internalID: 5939880122677208051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_111
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 383
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879307c5e9cfc5070800000000000000
+      internalID: 8096623987191200120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_112
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 383
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634fff892022efd00800000000000000
+      internalID: 1008280761129759798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_113
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 383
+        width: 34
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bf336471959bfa0800000000000000
+      internalID: -5784494289883759845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_114
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 415
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a490d073cfa54a00800000000000000
+      internalID: 740190967718515874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 98
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a377868a2ed09d0800000000000000
+      internalID: -2806337779846923718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_116
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 319
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2027b07d74457c1e0800000000000000
+      internalID: -2177679227283082750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_117
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 287
+        width: 26
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906c57175e96c8920800000000000000
+      internalID: 2993884286466508297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_118
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 287
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bfca6baf214ad70800000000000000
+      internalID: 9053382018937453320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_119
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 287
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fc1cb78acd22bd0800000000000000
+      internalID: -2656318214006255840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_120
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 319
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb5494419b0708d0800000000000000
+      internalID: -2880320718131405887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 98
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6231ba9a5f5a0ad0800000000000000
+      internalID: -2735268980927155601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_122
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 191
+        width: 25
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95982eabcb8282c0800000000000000
+      internalID: -4430825376462629477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_123
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 191
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf128fa3c24d4f00800000000000000
+      internalID: 1102610892006236091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_124
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 191
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93cb65c682d013b0800000000000000
+      internalID: -5543699665013455974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_125
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 223
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f09c140983e2bb0800000000000000
+      internalID: -4958963947458195590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 98
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c73bec465ad5db60800000000000000
+      internalID: 7770356796290185160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_127
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 95
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291ec6d66b80503e0800000000000000
+      internalID: -2088253272603434606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_128
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 95
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83760192581464ef0800000000000000
+      internalID: -124339899530713288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_129
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 127
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a74be4a6ab1187a0800000000000000
+      internalID: -6376785194834507871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 98
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe4403af8d412f20800000000000000
+      internalID: 3396080873324695280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_131
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b51475492ab4efa0800000000000000
+      internalID: -5772284135960472141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_132
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348a4ace8fab12280800000000000000
+      internalID: -9069762596262598589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_133
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f73b9c685591bbb0800000000000000
+      internalID: -4921988710727469072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_134
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5f11983759d2b30800000000000000
+      internalID: 4264228745643161034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_135
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 0
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9f34d43f3c5dc90800000000000000
+      internalID: -7145589784012654093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jultomten_136
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 31
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca1d3823cd79c0e0800000000000000
+      internalID: -2249128261747664192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Jultomten_0: -2457422814912123305
+      Jultomten_1: 4596041422005415674
+      Jultomten_10: -16563836854104276
+      Jultomten_100: 5690947068026876712
+      Jultomten_101: 9040796421933111093
+      Jultomten_102: 171426878004618708
+      Jultomten_103: -3895669697904451179
+      Jultomten_104: 984886879453334951
+      Jultomten_105: -7186598183072512100
+      Jultomten_106: 968507742874410641
+      Jultomten_107: 5990294982765052855
+      Jultomten_108: 885252155171668721
+      Jultomten_109: -2895142834086242836
+      Jultomten_11: 3831063155743926144
+      Jultomten_110: 5939880122677208051
+      Jultomten_111: 8096623987191200120
+      Jultomten_112: 1008280761129759798
+      Jultomten_113: -5784494289883759845
+      Jultomten_114: 740190967718515874
+      Jultomten_115: -2806337779846923718
+      Jultomten_116: -2177679227283082750
+      Jultomten_117: 2993884286466508297
+      Jultomten_118: 9053382018937453320
+      Jultomten_119: -2656318214006255840
+      Jultomten_12: -6653267750258318792
+      Jultomten_120: -2880320718131405887
+      Jultomten_121: -2735268980927155601
+      Jultomten_122: -4430825376462629477
+      Jultomten_123: 1102610892006236091
+      Jultomten_124: -5543699665013455974
+      Jultomten_125: -4958963947458195590
+      Jultomten_126: 7770356796290185160
+      Jultomten_127: -2088253272603434606
+      Jultomten_128: -124339899530713288
+      Jultomten_129: -6376785194834507871
+      Jultomten_13: 2990811387991367837
+      Jultomten_130: 3396080873324695280
+      Jultomten_131: -5772284135960472141
+      Jultomten_132: -9069762596262598589
+      Jultomten_133: -4921988710727469072
+      Jultomten_134: 4264228745643161034
+      Jultomten_135: -7145589784012654093
+      Jultomten_136: -2249128261747664192
+      Jultomten_14: 6633807247344487235
+      Jultomten_15: 2985559871640674510
+      Jultomten_16: 80046452298781569
+      Jultomten_17: 7833986851288908446
+      Jultomten_18: -5806659542577494840
+      Jultomten_19: -4875593546618670623
+      Jultomten_2: -6727859067965146773
+      Jultomten_20: 5066938052175832146
+      Jultomten_21: -4305117532079726619
+      Jultomten_22: -4870303021694968372
+      Jultomten_23: 3351088058467969495
+      Jultomten_24: 6809050469699719686
+      Jultomten_25: 8529592821275776345
+      Jultomten_26: 6329166124880554037
+      Jultomten_27: -1480050328495294494
+      Jultomten_28: -193283158631169992
+      Jultomten_29: -7532387154756057803
+      Jultomten_3: -996731776709330243
+      Jultomten_30: -4840885757221775531
+      Jultomten_31: -2863908772073689260
+      Jultomten_32: 7383765007175000796
+      Jultomten_33: 5532655800487811839
+      Jultomten_34: -5785370673768692709
+      Jultomten_35: -8816833536975833504
+      Jultomten_36: -5261208860694667645
+      Jultomten_37: -8024882114949050047
+      Jultomten_38: -5350739179952730353
+      Jultomten_39: 4606357573057555432
+      Jultomten_4: -7793918986411003739
+      Jultomten_40: -6752464386963521010
+      Jultomten_41: -5820540010716010312
+      Jultomten_42: -3822555961058937608
+      Jultomten_43: 3291583261259714543
+      Jultomten_44: 1924727236209976125
+      Jultomten_45: 1783346622021372808
+      Jultomten_46: 2944302087912000338
+      Jultomten_47: 6231720258592929233
+      Jultomten_48: -7915319353963492018
+      Jultomten_49: -7501429024760847356
+      Jultomten_5: 8940102498085066736
+      Jultomten_50: 2107085269625499847
+      Jultomten_51: 4171854616731314969
+      Jultomten_52: -8585537877215227465
+      Jultomten_53: -6209327180003017701
+      Jultomten_54: -8726688509229585522
+      Jultomten_55: 2922153847976541476
+      Jultomten_56: 7586511845723401381
+      Jultomten_57: 5891236404787088846
+      Jultomten_58: 5567913542821198896
+      Jultomten_59: 1749029827834891352
+      Jultomten_6: 4876255135129449068
+      Jultomten_60: 3671041265705685492
+      Jultomten_61: 3425375615930209960
+      Jultomten_62: 5170140701456160916
+      Jultomten_63: -400531540484236340
+      Jultomten_64: -8343478702825254230
+      Jultomten_65: 8644788050666120425
+      Jultomten_66: 5375098804461044350
+      Jultomten_67: -7040043444878712832
+      Jultomten_68: 9179300728292920777
+      Jultomten_69: -8328795794787759283
+      Jultomten_7: -272534446097239019
+      Jultomten_70: 5914973652934496468
+      Jultomten_71: -5713546481734308653
+      Jultomten_72: -9082479107642842725
+      Jultomten_73: 7699980825899126133
+      Jultomten_74: -1634999099904236532
+      Jultomten_75: -8333745248586410645
+      Jultomten_76: -5011635123675401454
+      Jultomten_77: 5242238621495945894
+      Jultomten_78: 1893228824087229781
+      Jultomten_79: -3070536590411749651
+      Jultomten_8: -8640244699750261364
+      Jultomten_80: 2835334877219457478
+      Jultomten_81: 5112953622691269241
+      Jultomten_82: -1122809983009340256
+      Jultomten_83: -8547389993611408082
+      Jultomten_84: 9076611645438752348
+      Jultomten_85: -2509606964010560203
+      Jultomten_86: 2382854945164841599
+      Jultomten_87: 3676455942034940931
+      Jultomten_88: 7055205646513241744
+      Jultomten_89: -6804874762838367400
+      Jultomten_9: -6383577953317798148
+      Jultomten_90: 2109321240189437643
+      Jultomten_91: 4456907674607383808
+      Jultomten_92: -801251878516769494
+      Jultomten_93: 3296133317790229569
+      Jultomten_94: 9207321281311937524
+      Jultomten_95: 2498889678590572436
+      Jultomten_96: 4727721681666469701
+      Jultomten_97: 7123445891519730788
+      Jultomten_98: -8174398862404021667
+      Jultomten_99: -8454000111884642170
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

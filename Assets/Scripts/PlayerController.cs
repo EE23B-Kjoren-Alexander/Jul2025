@@ -7,12 +7,12 @@ Vector2 movement = Vector2.zero;
 [SerializeField]
 float speed = 3;
      
-Animator anim;     
+Animator animera;     
      
      void Start()
     {
         //variablen anim har datatypen Animator
-        anim = GetComponent<Animator>();
+        animera = GetComponent<Animator>();
     }
     void Update()
     {
@@ -26,17 +26,26 @@ Animator anim;
         movement = Vector2.one * vector;
         print(vector);
 
-        if(movement.magnitude == 0)
+        //if(movement.magnitude == 0)
+        if(movement == Vector2.zero)
         {
-            anim.Play("Idle");
+            animera.Play("Idle");
         }
         else if(movement.y < 0)
         {
-            anim.Play("WalkDown");
+            animera.Play("WalkDown");
         }
         else if(movement.y > 0)
         {
-            anim.Play("WalkUp");
+            animera.Play("WalkUp");
+        }
+        else if(movement.x > 0)
+        {
+            animera.Play("WalkRight");
+        }
+        else if(movement.x < 0)
+        {
+            animera.Play("WalkLeft");
         }
     }
 }
